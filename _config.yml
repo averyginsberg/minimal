@@ -1,11 +1,10 @@
 title: AVERY GINSBERG
 description: PHOTO <br>
 VIDEO <br>
-SOUND <br> <br>
-STAATSBALLETT <br><br><br><br><br><br><br>
-
+SOUND <br>
+STAATSBALLETT <br>
 ABOUT <br>
 CONTACT
-show_downloads: false
+show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
