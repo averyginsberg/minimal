@@ -1,4 +1,4 @@
 ---
 layout: default
-bg: white
+bg: yellow
 ---
