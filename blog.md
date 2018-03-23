@@ -1,5 +1,6 @@
 ---
 layout: default
+bg: white
 ---
 #### Blog post
 <br> IMAGE
