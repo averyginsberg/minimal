@@ -2,3 +2,13 @@ title: AVERY GINSBERG
 description: <b><a href="https://averyginsberg.github.io/portfolio/photo">PHOTO</a><br><a href="https://averyginsberg.github.io/portfolio/video">VIDEO</a><br><a href="https://averyginsberg.github.io/portfolio/sound">SOUND</a><br><a href="https://ourstateballet.com">CLOTHING</a><br><br><br><br><div align="right"><a href="https://averyginsberg.github.io/portfolio/blog">BLOG</a><br><a href="https://averyginsberg.github.io/portfolio/about">ABOUT</a><br><a href="https://averyginsberg.github.io/portfolio/contact">CONTACT</a></div>
 google_analytics:
 theme: jekyll-theme-minimal
+### template colors, used site-wide via css ###
+colors:
+  black:     '#111111'
+  white:     '#ffffff'
+  blue:      '#49a7e9'
+  green:     '#9bcf2f'
+  purple:    '#c869bf'
+  orange:    '#fab125'
+  turquoise: '#0fbfcf'
+  yellow:    '#ffda33'
