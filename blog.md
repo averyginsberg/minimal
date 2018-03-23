@@ -1,4 +1,19 @@
 ---
 layout: default
 ---
-## Blog
+#### Blog post
+<br> IMAGE
+<br><br>
+#### Blog post
+<br> IMAGE
+<br><br>
+#### Blog post
+<br> IMAGE
+<br><br>
+#### Blog post
+<br> IMAGE
+<br><br>
+#### Blog post
+<br> IMAGE
+<br><br>
+#### Blog post
